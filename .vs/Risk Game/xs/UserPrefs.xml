@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scripts/Game.cs">
+    <Files>
+      <File FileName="Scripts/Options-Page.cs" Line="6" Column="1" />
+      <File FileName="Scripts/Game.cs" Line="455" Column="35" />
+      <File FileName="Scripts/AnimationsMaker.cs" Line="247" Column="23" />
+      <File FileName="Scripts/Country.cs" Line="18" Column="51" />
+      <File FileName="Scripts/Player.cs" Line="19" Column="12" />
+      <File FileName="Scripts/StartMenu.cs" Line="28" Column="11" />
+      <File FileName="Scripts/menugame.cs" Line="22" Column="2" />
+      <File FileName="Scripts/MapBuilder.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Risk Game" expanded="True">
+            <Node name="Risk Game" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Game.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

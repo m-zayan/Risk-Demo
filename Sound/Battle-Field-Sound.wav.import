@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Battle-Field-Sound.wav-52c99c0d7a3afe6bc3569a5e5a89d5d0.sample"
+
+[deps]
+
+source_file="res://Sound/Battle-Field-Sound.wav"
+dest_files=[ "res://.import/Battle-Field-Sound.wav-52c99c0d7a3afe6bc3569a5e5a89d5d0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

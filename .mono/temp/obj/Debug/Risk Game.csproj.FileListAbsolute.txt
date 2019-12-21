@@ -1,0 +1,5 @@
+/home/mohamed/Desktop/My-Files/Game Develpment/Risk-Demo-master/.mono/temp/bin/Debug/Risk Game.dll
+/home/mohamed/Desktop/My-Files/Game Develpment/Risk-Demo-master/.mono/temp/bin/Debug/Risk Game.pdb
+/home/mohamed/Desktop/My-Files/Game Develpment/Risk-Demo-master/.mono/temp/obj/Debug/Risk Game.csprojAssemblyReference.cache
+/home/mohamed/Desktop/My-Files/Game Develpment/Risk-Demo-master/.mono/temp/obj/Debug/Risk Game.dll
+/home/mohamed/Desktop/My-Files/Game Develpment/Risk-Demo-master/.mono/temp/obj/Debug/Risk Game.pdb
